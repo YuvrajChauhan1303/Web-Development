@@ -1,0 +1,174 @@
+#title{
+  background-color: #F0F0F0;
+}
+
+.margin-left{
+  margin-left: auto;
+}
+
+.intro{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.navigation-bar{
+  padding: 0 11%;
+  padding-bottom: 4.5rem;
+  padding-top: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.text-box{
+  padding: 2% 12%;
+}
+
+.caption{
+  margin: 20px auto;
+  font-family: 'Anonymous Pro', monospace;
+  line-height: 1.7;
+  color: #3C4048;
+}
+
+.seperator{
+  padding-top: 0;
+  border-style: dashed none none none;
+  border-width: 5px;
+  width: 100%;
+}
+
+
+.navbar-brand{
+  font-family: 'Montserrat' , sans-serif;
+  font-weight: bold;
+}
+
+.text-box-left{
+  margin-right: 30px;
+}
+
+.btn-padding{
+  width: 50%;
+  display: inline;
+  padding-right: 15px;
+}
+
+.center{
+  display: inline;
+}
+
+#features{
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+.features-heading{
+  text-align: center;
+}
+
+.feature-row{
+  padding-top: 8%;
+}
+.feature-box{
+  text-align: center;
+  padding-left: 20%;
+  font-family: 'Lato', sans-serif;
+  color: #8f8f8f;
+  padding-right: 50%;
+}
+
+.feature-box-heading{
+  font-family: "Montserrat" ,sans-serfif;
+  color: #222831;
+}
+
+#website{
+  background-color: #EEEEEE;
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.carousel-website-img{
+  border-radius: 4%;
+}
+
+.btn-outline-dark{
+  margin-bottom: 20px;
+}
+
+.final-slide{
+  color: #fff;
+}
+
+.carousel {
+  width:900px;
+  display: block;
+  margin: auto;
+}
+
+#carousel{
+  padding: 5% 5% 3%;
+  text-align: center;
+}
+
+.car-img{
+    border: 5px solid #555;
+}
+
+.car-caption-heading{
+  padding-top: 2%;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 300%;
+}
+
+.car-caption{
+    color: #8f8f8f;
+    line-height: 1.5;
+}
+
+#ContactMe{
+    padding: 5% 25%;
+    background-color: #EEEEEE;
+
+}
+
+.sub-section{
+  text-align: center;
+  font-family: 'Ubuntu' , sans-serif;
+  font-size: 2em;
+}
+
+.contact-caption{
+  text-align: center;
+  color: #8f8f8f;
+}
+
+.contact-me-input{
+  padding: 0;
+}
+.format{
+  padding: 2% 15%;
+}
+
+.submit-btn{
+  width: 100%;
+}
+
+#footer{
+  background-color: #DDDDDD;
+  text-align: center;
+}
+
+.links{
+  padding: 2%;
+}
+
+.footer-buttons{
+  margin: 0 8px;
+}
